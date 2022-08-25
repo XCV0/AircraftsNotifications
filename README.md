@@ -13,4 +13,6 @@
 
 `python main.py dump1090 sound 127.0.0.1 8080`
 
-`python main.py virtualradar 127.0.0.1 0`
+`python main.py virtualradar 127.0.0.1 0`  
+
+Работает пока что только с VirtualRadar
